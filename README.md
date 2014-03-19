@@ -1,6 +1,6 @@
 # Hello!
 
-This organization is the home of CoderDojo San Francisco on Github. We use this space for storing lesson plans and communication between mentors.
+This is the home of CoderDojo San Francisco on Github. We use this space for storing lesson plans and communication between mentors.
 
 ## What is CoderDojo?
 
